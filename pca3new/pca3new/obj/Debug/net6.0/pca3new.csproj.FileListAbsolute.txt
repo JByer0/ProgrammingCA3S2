@@ -1,0 +1,15 @@
+C:\Users\Deepe\OneDrive\Desktop\pca3new\pca3new\obj\Debug\net6.0\pca3new.csproj.AssemblyReference.cache
+C:\Users\Deepe\OneDrive\Desktop\pca3new\pca3new\obj\Debug\net6.0\pca3new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deepe\OneDrive\Desktop\pca3new\pca3new\obj\Debug\net6.0\pca3new.AssemblyInfoInputs.cache
+C:\Users\Deepe\OneDrive\Desktop\pca3new\pca3new\obj\Debug\net6.0\pca3new.AssemblyInfo.cs
+C:\Users\Deepe\OneDrive\Desktop\pca3new\pca3new\obj\Debug\net6.0\pca3new.csproj.CoreCompileInputs.cache
+C:\Users\Deepe\OneDrive\Desktop\pca3new\pca3new\bin\Debug\net6.0\pca3new.exe
+C:\Users\Deepe\OneDrive\Desktop\pca3new\pca3new\bin\Debug\net6.0\pca3new.deps.json
+C:\Users\Deepe\OneDrive\Desktop\pca3new\pca3new\bin\Debug\net6.0\pca3new.runtimeconfig.json
+C:\Users\Deepe\OneDrive\Desktop\pca3new\pca3new\bin\Debug\net6.0\pca3new.dll
+C:\Users\Deepe\OneDrive\Desktop\pca3new\pca3new\bin\Debug\net6.0\pca3new.pdb
+C:\Users\Deepe\OneDrive\Desktop\pca3new\pca3new\obj\Debug\net6.0\pca3new.dll
+C:\Users\Deepe\OneDrive\Desktop\pca3new\pca3new\obj\Debug\net6.0\refint\pca3new.dll
+C:\Users\Deepe\OneDrive\Desktop\pca3new\pca3new\obj\Debug\net6.0\pca3new.pdb
+C:\Users\Deepe\OneDrive\Desktop\pca3new\pca3new\obj\Debug\net6.0\pca3new.genruntimeconfig.cache
+C:\Users\Deepe\OneDrive\Desktop\pca3new\pca3new\obj\Debug\net6.0\ref\pca3new.dll
